@@ -1,6 +1,6 @@
 # Ex. No: 5 Creating Triggers using PL/SQL
 
-## DATE:
+## DATE: 1/9/23
 
 ### AIM: To create a Trigger using PL/SQL.
 
